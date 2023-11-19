@@ -1,0 +1,17 @@
+{
+  "name": "atom-book-saver",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An app to download books from library to and them to pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Maksimenko",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-pdf": "^2.0.0",
+    "log4js": "^6.9.1",
+    "node-fetch": "^3.3.2"
+  }
+}
